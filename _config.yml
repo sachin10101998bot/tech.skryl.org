@@ -18,7 +18,7 @@ tagline:             '@skryl.org'
 description:         'Musings on code and technology'
 url:                 http://tech.skryl.org
 repository:          'skryl/tech.skryl.org'
-baseurl:             ''
+baseurl:             '/tech.skryl.org'
 paginate:            5
 host:                localhost
 port:                4000
